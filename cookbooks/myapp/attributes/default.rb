@@ -1,4 +1,4 @@
-default['tomcat']['deploy']['url'] =  'https://6-56512351-gh.circle-artifacts.com/0/tmp/circle-artifacts.FjgJEki/CMADSession-0.0.19.war'
+default['tomcat']['deploy']['url'] =  'https://4-94848332-gh.circle-artifacts.com/0/tmp/circle-artifacts.7i7uXQd/sysfoo.war'
 default['tomcat']['deploy']['path'] = '/usr/share/tomcat/webapps'
 default['tomcat']['deploy']['filename'] = 'app.war'
 default['tomcat']['deploy']['context'] = 'app'
